@@ -30,7 +30,7 @@
     "url": "https://github.com/AnnaLangner/ComponentsContactAndForm/issues"
   },
   "homepage": "https://github.com/AnnaLangner/ComponentsContactAndForm#readme",
-   "dependencies": {
+  "dependencies": {
     "mkdirp": "^0.5.1",
     "normalize.css": "^8.0.1",
     "superagent": "^3.7.0"
