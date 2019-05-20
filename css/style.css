@@ -1,0 +1,15 @@
+body { background-color: #99CCFF; margin: 0 auto; padding: 0; text-align: center; }
+
+body .app { color: #000000; }
+
+body .app .contactsList .contactItem { margin: 10px; }
+
+body .app .contactsList .contactItem .contactImage { width: 40px; height: 40px; padding: 10px 0; }
+
+body .app .contactsList .contactItem .contactEmail { text-decoration: none; }
+
+body .app .contactForm { padding: 20px; }
+
+body .app .contactForm input { width: 150px; height: 22px; border-radius: 4px; color: #FFFFFF; background-color: #a5d9f7; border: 3px solid #0000CC; }
+
+body .app .contactForm button { width: 100px; height: 30px; border-radius: 4px; color: #FFFFFF; background-color: #6666FF; border: 3px solid #0000CC; }
