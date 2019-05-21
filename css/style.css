@@ -2,6 +2,8 @@ body { background-color: #99CCFF; margin: 0 auto; padding: 0; text-align: center
 
 body .app { color: #000000; }
 
+body .app .label { color: #000099; font-size: 20px; font-weight: 700; padding-top: 10px; }
+
 body .app .contactsList .contactItem { margin: 10px; }
 
 body .app .contactsList .contactItem .contactImage { width: 40px; height: 40px; padding: 10px 0; }
